@@ -1,0 +1,130 @@
+#burn{
+    text-align: center;
+    font-size: 48px;
+}
+.esf{
+    text-align: end;
+    font-style: bold;
+    text-decoration: overline;
+}
+.robochiken{
+    margin-left: 15px;
+}
+#elf span{
+    text-decoration: underline;
+    color: green;
+    background-color: rgb(133, 218, 133);
+}
+#selka span{
+    color: violet;
+}
+#iowa{
+    width: 125px;
+    height: 125px;
+    border-color: black;
+    background-color: rgb(133, 96, 51);
+}
+#insane{
+    background-color: orange;
+    font-size: 48px;
+    font-weight: bold;
+}
+.otstup{
+    padding-top: 25px;
+}
+.Vasserman{
+    background-color: blue;
+    font-size: 48px;
+    font-weight: bold;
+}
+#damned{
+    width: 100px;
+    height: 100px;
+    background-color: greenyellow;
+}
+.redsquare{
+    width: 50px;
+    height: 50px;
+    background-color: red;
+    text-align: center;
+}
+.yellowsquare{
+    width: 25px;
+    height: 25px;
+    background-color: yellow;
+    text-align: center;
+}
+#roll{
+    border-width: 8px;
+    width: 200px;
+    height: 200px;
+    border-style: dashed;
+    border-radius: 50%;
+    border-color: violet;
+}
+.pinksquare{
+    width: 200px;
+    height: 200px;
+    background-color: violet;
+}
+#justsquare{
+    width: 100px;
+    height: 100px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: black;
+    padding-top: 25px;
+    box-sizing: border-box;
+    text-align: center;
+}
+#greensquare{
+    width: 100px;
+    height: 50px;
+    border-width: 5px;
+    border-color: green;
+    border-style: solid;
+    text-align: center;
+    padding-top: 20px;
+}
+#squareinsadesquare{
+    background-color: greenyellow;
+    border-width: 4px;
+    border-style: solid;
+    border-color: green;
+    width: 200px;
+    height: 200px;
+}
+#squarewithsquare{
+    background-color: white;
+    border-width: 4px;
+    border-style: solid;
+    border-color: rgb(13, 196, 22);
+    width: 100px;
+    height: 100px;
+    margin-left: 25%;
+    margin-top: 75%;
+    box-sizing: border-box;
+}
+#demon{
+    padding-top: 20px;
+}
+.greenfone{
+    padding-left: 15px;
+    background-color: greenyellow;
+    text-indent: 15px;
+    font-size: 36px;
+}
+#zal{
+    background-image: url(images/1660839549_1-kartinkin-net-p-fon-muzeinii-krasivo-1.jpg);
+    height: auto;
+}
+#Kartina{
+    border-width: 15px;
+    text-align: center;
+    background-repeat: no-repeat;
+    border-width: 8px;
+    border-style: solid;
+    border-color: yellow;
+    margin-left: 40%;
+    margin-top: 8%;
+}
